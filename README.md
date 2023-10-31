@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Saibamen/count.svg" />
+  <img src="https://profile-counter.glitch.me/Saibamen/count.svg" /><br>
 </p>
+
+![Saibamen's GitHub stats](https://github-readme-stats.vercel.app/api?username=saibamen&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
